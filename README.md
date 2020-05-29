@@ -1,6 +1,6 @@
-# pro
+# Animated tab bar
 
-A new Flutter project.
+This app gives the functionality about the button animation and the search functionality to attract the  user interface to improve the usages
 
 ## Getting Started
 
